@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.galery {
+  width: 500px;
+}
+
+.cover {
+  width: 500px;
+  height: 400px;
+  background: rgb(125, 127, 238);
+}
+
+.pct {
+  padding: 4px;
+  float: left;
+  width: 20%;
+  height: 80px;
+  cursor: pointer;
+}
+
+.pct img {
+  width: 100%;
+  height: 80px;
+}
+
+.cover img {
+  width: 100%;
+  height: 400px;
+}
